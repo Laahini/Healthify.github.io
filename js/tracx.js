@@ -1,7 +1,7 @@
 
 
 function mealstracx(){
-  location.href="mealstracx.html"
+  location.href="meals/mealstracx.html"
 }
 
 
